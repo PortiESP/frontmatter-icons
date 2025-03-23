@@ -4,5 +4,7 @@
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Allows you to set icons in the file explorer based on the frontmatter key `icon`",
-	"author": "Porti"
+	"author": "Porti",
+	"authorUrl": "https://github.com/PortiESP",
+	"isDesktopOnly": false
 }
